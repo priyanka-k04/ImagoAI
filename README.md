@@ -1,8 +1,10 @@
 #ImagoAI
+
+
 Medical Imaging AI Analysis Tool
 An AI-powered medical image analyzer using Google's Gemini API that provides professional diagnostic insights in seconds.
 
-🚀 What It Does
+1. What It Does
 Upload a medical image (X-ray, CT, MRI, Ultrasound) and get instant AI analysis including:
 
 Image identification - Type, region, quality assessment
@@ -12,7 +14,7 @@ Patient explanation - Simple, easy-to-understand summary
 Medical context - References and next steps
 
 
-📋 What You Need
+2. What You Need
 Requirements
 - Google Gemini API Key (free tier available)
 - Google Colab account (free)
@@ -45,11 +47,11 @@ Wait 30-60 seconds
 Get instant analysis! ✨
 
 
-📸 Supported Image Formats
+-> Supported Image Formats
 
-✅ JPG / JPEG
-✅ PNG
-✅ Other standard image formats
+1. JPG / JPEG
+2. PNG
+3. Other standard image formats
 
 
 💡 How It Works
@@ -61,7 +63,7 @@ Get instant analysis! ✨
         ↓
 4. Display Results
 
-📊 Example Output
+-> Example Output
 The tool provides structured analysis with:
 
 Imaging Type - What kind of scan it is
@@ -99,12 +101,12 @@ Colab: FREE
 ❓ Troubleshooting
 IssueSolution"Invalid API Key"Copy API key carefully from https://aistudio.google.com/apikey"No module named 'genai'"Run: !pip install google-generativeai -qAnalysis taking too longNormal - can take 30-60 seconds on first runImage not uploadingUse JPG/PNG format, max 10MB recommended
 
-🎯 Use Cases
-✅ Medical students learning radiology
-✅ Healthcare professionals seeking second opinions
-✅ Educational demonstrations
-✅ Research purposes
-✅ Training and practice
+-> Use Cases
+1. Medical students learning radiology
+2. Healthcare professionals seeking second opinions
+3. Educational demonstrations
+4. Research purposes
+5. Training and practice
 
 📝 Files Included
 
